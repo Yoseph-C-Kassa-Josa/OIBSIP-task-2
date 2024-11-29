@@ -136,7 +136,7 @@ color: rgb(194, 188, 188);
   border: .2rem solid rgb(93, 93, 206);
   border-radius: 50%;
   font-size: 2rem;
-  color: blue;
+  color: rgb(74, 74, 173);
   margin: 3rem 1.5rem 3rem 0;
   transition: cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
