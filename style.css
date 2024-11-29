@@ -141,7 +141,7 @@ color: rgb(194, 188, 188);
   transition: cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
 .social-media a:hover {
-  background: red;
+  background: rgb(222, 81, 81);
   color: var(--second-bg-color);
   box-shadow: 0 0 1rem red;
 }
