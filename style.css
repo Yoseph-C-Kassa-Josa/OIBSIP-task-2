@@ -148,7 +148,7 @@ color: rgb(194, 188, 188);
 .btn{
   display: inline-block;
   padding:1rem 2.8rem;
-  background: moccasin;
+  background: rgb(213, 193, 158);
   border-radius: 4rem;
   box-shadow: 0 0 1rem rgb(210, 149, 42);
   font-size: 1.6rem;
